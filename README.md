@@ -1,1 +1,1 @@
-# the_eight_puzzle
+# The Eight Puzzle
