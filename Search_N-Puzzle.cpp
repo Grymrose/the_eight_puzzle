@@ -1,4 +1,12 @@
-#include <bits/stdc++.h>    // Includes almost all standard libraries for C++.
+#include <chrono>
+#include <thread>
+#include <iostream>
+#include <vector>
+#include <string>
+#include <cmath>
+#include <algorithm>
+#include <queue>
+#include <map>
 using namespace std;
 
 const int PUZZLE_SIDE_LENGTH = 3;   // For a 3x3 puzzle. Can be changed for different puzzle sizes.
